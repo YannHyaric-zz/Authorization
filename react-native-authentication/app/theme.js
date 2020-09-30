@@ -1,6 +1,6 @@
 import {Platform} from "react-native";
 
-export let font = Platform.OS === 'ios' ? 'HelveticaNeue' : 'Roboto';
+export let font = 'Roboto';
 export let titleColor = '#363434';
 
 //Nav Shared Styles
